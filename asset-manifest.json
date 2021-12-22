@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://purvi1999.github.io/csb-oq7qd/static/css/main.72031c80.chunk.css",
+    "main.js": "https://purvi1999.github.io/csb-oq7qd/static/js/main.f5a54a6c.chunk.js",
+    "main.js.map": "https://purvi1999.github.io/csb-oq7qd/static/js/main.f5a54a6c.chunk.js.map",
+    "runtime-main.js": "https://purvi1999.github.io/csb-oq7qd/static/js/runtime-main.159bcd60.js",
+    "runtime-main.js.map": "https://purvi1999.github.io/csb-oq7qd/static/js/runtime-main.159bcd60.js.map",
+    "static/js/2.f73018b4.chunk.js": "https://purvi1999.github.io/csb-oq7qd/static/js/2.f73018b4.chunk.js",
+    "static/js/2.f73018b4.chunk.js.map": "https://purvi1999.github.io/csb-oq7qd/static/js/2.f73018b4.chunk.js.map",
+    "index.html": "https://purvi1999.github.io/csb-oq7qd/index.html",
+    "static/css/main.72031c80.chunk.css.map": "https://purvi1999.github.io/csb-oq7qd/static/css/main.72031c80.chunk.css.map",
+    "static/js/2.f73018b4.chunk.js.LICENSE.txt": "https://purvi1999.github.io/csb-oq7qd/static/js/2.f73018b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.159bcd60.js",
+    "static/js/2.f73018b4.chunk.js",
+    "static/css/main.72031c80.chunk.css",
+    "static/js/main.f5a54a6c.chunk.js"
+  ]
+}
